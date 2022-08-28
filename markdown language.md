@@ -1,33 +1,64 @@
 #LENGUAJE DE MARKDOWN
 **extension.md**
 
+
+
+
 ---
 
+
 ###Encabezados
+
+
+
+
 ```
 # Encabezado H1
+
+
 ## Encabezado H2
+
+
 ### Encabezado H3
 ```
 
+
 ###Citas
+
+
 `>Este texto será una cita.`
+
 
 ###Cursiva, negrita, etc
 ```
 *cursiva*
+
+
 **negrita**
+
+
 ***cursiva y negrita***
 ```
+
+
 ---
 
+
 ### Código
+
+
 Tienen un solo tílde invertido al que tiene la í
+
 
 las frases de código comienzan y finalizan con tres de estas comillas
 
+
 ---
+
+
 ### Listas
+
+
 ```
 * Primer elemento de la lista
 * Segundo elemento de la lista
