@@ -5,7 +5,9 @@
 ## Abrir el CMD
 en la carpeta que se desee: 
 escribir en la barra de navegación: 
+
 `cmd + enter`
+
 
 o presionar la tecla windows y escribir cmd
 
@@ -46,11 +48,15 @@ c:/users
 
 ---
 ## Información del sistema
+
 `SYSTEMINFO`
+
 
 `ipconfig`
 
+
 `ipconfig /all`
+
 
 
 ### Modificar IP
@@ -64,6 +70,7 @@ ipconfig /renew (esto va a renovar/actualizar su IP)
 
 ### Tareas que se están ejecutando
 Despliega la lista de tareas que se están ejecutando
+
 `tasklist`
 
 ### Averiguar la IP de un sitio
