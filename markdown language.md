@@ -61,7 +61,7 @@ las frases de código comienzan y finalizan con tres de estas comillas
 Línea divisoria
 
 
-`---
+`---`
 
 ---
 ### Tablas
