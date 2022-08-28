@@ -1,4 +1,4 @@
-#LENGUAJE DE MARKDOWN
+# LENGUAJE DE MARKDOWN
 **extension.md**
 
 
@@ -7,7 +7,7 @@
 ---
 
 
-###Encabezados
+### Encabezados
 
 
 
@@ -23,19 +23,18 @@
 ```
 
 
-###Citas
+### Citas
 
 
 `>Este texto será una cita.`
 
 
-###Cursiva, negrita, etc
+### Cursiva, negrita, etc
+
 ```
 *cursiva*
 
-
 **negrita**
-
 
 ***cursiva y negrita***
 ```
@@ -46,9 +45,7 @@
 
 ### Código
 
-
 Tienen un solo tílde invertido al que tiene la í
-
 
 las frases de código comienzan y finalizan con tres de estas comillas
 
