@@ -2,40 +2,23 @@
 **extension.md**
 
 
-
-
 ---
 
 
 ### Encabezados
-
-
-
-
 ```
 # Encabezado H1
-
-
 ## Encabezado H2
-
-
 ### Encabezado H3
 ```
 
-
 ### Citas
-
-
 `>Este texto será una cita.`
 
-
 ### Cursiva, negrita, etc
-
 ```
 *cursiva*
-
 **negrita**
-
 ***cursiva y negrita***
 ```
 
@@ -44,9 +27,7 @@
 
 
 ### Código
-
 Tienen un solo tílde invertido al que tiene la í
-
 las frases de código comienzan y finalizan con tres de estas comillas
 
 
@@ -54,8 +35,6 @@ las frases de código comienzan y finalizan con tres de estas comillas
 
 
 ### Listas
-
-
 ```
 * Primer elemento de la lista
 * Segundo elemento de la lista
@@ -68,7 +47,9 @@ las frases de código comienzan y finalizan con tres de estas comillas
    * Segundo elemento hijo
 2. Segundo elemento
 ```
+
 ---
+
 ### Links
 ```
 [Visita mi web](https://oscarnovas.com)
@@ -77,7 +58,9 @@ las frases de código comienzan y finalizan con tres de estas comillas
 ```
 ---
 ### Línea Divisoria
-Línea divisoria 
+Línea divisoria
+
+
 `---
 
 ---
