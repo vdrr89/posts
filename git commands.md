@@ -16,11 +16,17 @@
 `git config user.name`
 
 También puede ser: 
+
 `user.name`
+
 `user.email`
+
 `color.status`
+
 `color.branch`
+
 `color.interactive`
+
 `color.diff`
 
 
