@@ -11,11 +11,14 @@ Hola! tengo aquí ésta publicación, como ayuda-memoria o por si algún día lo
 
 0. Tener **configuardo tu usuario** de Git en tu computadora, y si no lo tienes, configuralo
 
+
 1. **Iniciar Git** en la carpeta de tu computadora
 2. Elegir si querés **crear un nuevo proyecto**, clonar uno existente, ...
-3. **Asignar el repositorio** online (y verificar que estén y como se llaman los repositorios local y remoto que tenés en ese proyecto).
+3. **Asignar el repositorio** online (y verificar que estén creados... y como se llaman los repositorios local y remoto que tenés en ese proyecto).
+
 
 4. Haz tus creaciones de código
+
 
 5. git add ... (es como si estuvieras **agregando** tus creaciones a una cajita)
 6. git commit ... (ponles **nombre** a la cajita donde guardaste ese código)
