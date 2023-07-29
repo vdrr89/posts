@@ -387,3 +387,9 @@ Nos vamos a la rama master y ejecutamos este código para combinar la *nuevaRama
 `git push origin --delete nombreDeLaRama`
 
 (recordá que en la configuración de github debe tener marcado como "default branch" alguna rama que no sea la misma que quieres borrar (github.com... > settings > branches) )
+
+
+---
+## Guía Oficial de Github cli
+
+[cli.github.com/manual](https://cli.github.com/manual/)
