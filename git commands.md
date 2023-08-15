@@ -390,6 +390,27 @@ Nos vamos a la rama master y ejecutamos este código para combinar la *nuevaRama
 
 
 ---
+
+## Fusionar ramas
+
+la rama que tiene los cambios que querés que se guarden tienen que ser agregados con
+`git add .`
+ó
+`git add nombreDelArchivoAAgregar`
+
+luego tenés que hacerles el commit
+`git commit -m "elMensajeQueQuieras"`
+
+ahí ya estás, ahora fijate en que rama estás con
+`git branch -a`
+
+luego parate en la rama que querés que reciba los cambios, moviendote con 
+` git checkout nombreDeLaRama`
+
+ahí hacés el merge
+`git merge nombreDeLaRamaQueTraeLosCambios`
+
+---
 ## Guía Oficial de Github cli
 
 [cli.github.com/manual](https://cli.github.com/manual/)
